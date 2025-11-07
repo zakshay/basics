@@ -1,0 +1,2 @@
+this is a vim docs text file created and inserted using vim (vi text editor improved)
+
